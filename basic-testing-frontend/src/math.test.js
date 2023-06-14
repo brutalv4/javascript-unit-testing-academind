@@ -1,4 +1,4 @@
-import { expect, it, should } from 'vitest';
+import { expect, it } from 'vitest';
 import { add } from './math';
 
 it('should summarize all numbers values in an array', () => {
